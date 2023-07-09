@@ -3,8 +3,8 @@ Type: Package
 Title: RTutor problem set CarbonTaxesAndCO2Emissions
 Version: 0.1
 Date: 2020-18-08
-Author: Theresa Gräfe
-Maintainer: Theresa Gräfe <theresa.graefe@uni-ulm.de>
+Author: Theresa Grafe
+Maintainer: Theresa Grafe <theresa.graefe@uni-ulm.de>
 Description: RTutor problem set CarbonTaxesAndCO2Emissions
 License: 
 	Problem set content: Creative Commons (CC BY-NC 4.0)
